@@ -1,0 +1,7 @@
+deep-translator
+humanfriendly
+discord.py
+humanize
+asyncpg
+emoji
+pytz
